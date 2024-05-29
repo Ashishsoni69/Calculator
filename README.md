@@ -1,4 +1,4 @@
 # Calculator
 Calculator Using JavaScript
 <br>
-Author - Ashish Soni 
+Author - (Ashish Soni)
